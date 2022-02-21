@@ -1,6 +1,6 @@
 # groupTesting
 
-This repository provides information about the R package ###groupTesting###, which is currently available at CRAN: https://cran.r-project.org/web/packages/groupTesting/.
+This repository provides information about the R package *groupTesting*, which is currently available at CRAN: https://cran.r-project.org/web/packages/groupTesting/.
 
 The estimation techniques that the package can implemented are presented in Warasi (2021). The final accepted version of the manuscript is uploaded to this repository. 
 
